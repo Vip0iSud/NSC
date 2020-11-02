@@ -7,6 +7,9 @@ public class test : MonoBehaviour
     void Start()
     {
         Debug.Log("i nut na hee hua kuy");
+        Debug.Log("i nut na hee hua kuy");
+        Debug.Log("i nut na hee hua kuy");
+        Debug.Log("i nut na hee hua kuy");
     }
 
     void Update()
